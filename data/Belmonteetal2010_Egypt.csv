@@ -1,0 +1,333 @@
+Region,Place,Latitude,Longitude,Temple,Dynasty,Azimuth,Horizon Altitude,Horizon Confidence,Declination,Comments
+Lower Egypt,ZUR,31.4,27.017,Ramses II,19th,133,1,,-35.25,In the fort of Zawiyet
+Lower Egypt,ZUR,31.4,27.017,Ptah & Sekhmet,19th,134.75,1,,-36.25,Umm el Rakhman
+Lower Egypt,ZUR,31.4,27.017,West Chapels,19th,127.5,0.5,,-31.25,
+Lower Egypt,ZUR,31.4,27.017,South Building,19th,42.25,0.5,b,39.25,
+Lower Egypt,ZUR,31.4,27.017,Main gate,19th,44,0.5,,34,Of the fort
+Lower Egypt,Buto,31.2,30.75,Uadjet,18th,248.5,0,B,-18.5,
+Lower Egypt,Behebit el Haggar,31.033,31.283,Iseum,30th,298.25,0,B,23.75,Opposite -24.25. Error ∼2º
+Lower Egypt,Mendes,30.967,31.517,Naos of Shu,26th,22,0,,52.25,Banebdjed Temple
+Lower Egypt,Taposiris,30.95,29.517,Osiris,Ptolemaic,75.25,0,,12.25,
+Lower Egypt,Tanis,30.833,31.867,Amon,21st -22nd,251.75,0,,-16,↓ Error › .5º
+Lower Egypt,Tanis,30.833,31.867,Khonsu,30th,342,0,,54.25,
+Lower Egypt,Tanis,30.833,31.867,Horus of Sile,22nd,161.75,0,b,-55.25,
+Lower Egypt,Tanis,30.833,31.867,Horus of Mesen,30th,251.25,0,b,-16.25,
+Lower Egypt,Tanis,30.833,31.867,Mut & Astarte,19th,341.75,0,,54,↑
+Lower Egypt,Tanis,30.833,31.867,Amenemopet,22nd,90.75,0,,-1,
+Lower Egypt,Bubastis,30.583,31.517,Ka of Pepi I,6th,119,0,b,-25,Opposite possible
+Lower Egypt,Bubastis,30.583,31.517,Bastet,22nd,118.5,0,,-24.5,
+Lower Egypt,Bubastis,30.583,31.517,Mihos,22nd,28.5,0,,48.5,Mostly ruined
+Lower Egypt,Heliopolis,30.117,31.3,Ra-horakhty,12th,104.75,,B,-13,Senuseret obelisk
+Lower Egypt,Heliopolis,30.117,31.3,Atum,12th,284.75,0,B,12.5,
+Lower Egypt,Heliopolis,30.117,31.3,Ramses II,19th,101.25,,B,-10,⊥ also possible
+Lower Egypt,Abu Roash,30.033,31.067,PT Djedefre,4th,90.75,0,,-1,⊥ to N also possible
+Lower Egypt,Giza,29.983,31.133,PT Khufu,4th,90,0,,-0.25,
+Lower Egypt,Giza,29.983,31.133,PT Khafre,4th,89.75,0,,0,
+Lower Egypt,Giza,29.983,31.133,VT Khafre,4th,90.5,0,,-0.75,
+Lower Egypt,Giza,29.983,31.133,Sphinx,4th,90.5,0,,-0.75,
+Lower Egypt,Giza,29.983,31.133,PT Menkaure,4th,90.25,0,,-0.5,
+Lower Egypt,Giza,29.983,31.133,Horemakhet,18th,224,14.5,,-28.5,
+Lower Egypt,Giza,29.983,31.133,Isis,21st-26th,90.25,0,,-0.5,
+Lower Egypt,Abu Ghurob,29.917,31.183,Solar T Userkaf,5th,90,0,,-0.25,
+Lower Egypt,Abu Ghurob,29.917,31.183,VT Userkaf,5th,52,0.5,B,35.75,
+Lower Egypt,Abu Ghurob,29.917,31.183,Solar T Niuserre,5th,91.25,0,,-1.25,
+Lower Egypt,Abu Ghurob,29.917,31.183,Niuserre´s Altar,5th,90.75,0,,-1,
+Lower Egypt,Abu Ghurob,29.917,31.183,VT Niuserre,5th,49.5,0.5,B,33.75,
+Lower Egypt,Abusir,29.9,31.2,PT Sahure,5th,91.5,0,,-1.5,
+Lower Egypt,Abusir,29.9,31.2,VT Sahure,5th,91,0.5,B,-0.75,
+Lower Egypt,Abusir,29.9,31.2,PT Neferirkare,5th,90.25,0,,-0.5,
+Lower Egypt,Abusir,29.9,31.2,PT Khentkaus,5th,90.25,0,,-0.5,“Mother of Two King”
+Lower Egypt,Abusir,29.9,31.2,PT Neferefra,5th,92.25,0,,-2.25,
+Lower Egypt,Abusir,29.9,31.2,PT Niuserre,5th,90.75,0,,-1,
+Lower Egypt,Abusir,29.9,31.2,VT Niuserre,5th,95,0,,-4.5,
+Lower Egypt,Abusir,29.9,31.2,Ptahshepses,5th,90.25,0,,-0.5,High official
+Lower Egypt,Saqqara North,29.883,31.217,Djoser Gate,3rd,92.75,0,,-2.75,↓ Djoser complex
+Lower Egypt,Saqqara North,29.883,31.217,North House,3rd,183.5,0,b,-60.5,
+Lower Egypt,Saqqara North,29.883,31.217,South House,3rd,183.5,0,b,-60.5,
+Lower Egypt,Saqqara North,29.883,31.217,North T Djoser,3rd,4,0,,59.25,
+Lower Egypt,Saqqara North,29.883,31.217,Serdab Left,3rd,3.5,11.5,,71.25,
+Lower Egypt,Saqqara North,29.883,31.217,Serdab Right,3rd,3.5,19.75,,79.25,↑
+Lower Egypt,Saqqara North,29.883,31.217,PT Userkaf,5th,90.25,0.5,B,-0.25,
+Lower Egypt,Saqqara North,29.883,31.217,South T Userkaf,5th,90.25,0.5,B,-0.25,
+Lower Egypt,Saqqara North,29.883,31.217,PT Unas,5th,90.25,0.5,,-0.25,
+Lower Egypt,Saqqara North,29.883,31.217,VT Unas,5th,93,0.5,,-2.25,
+Lower Egypt,Saqqara North,29.883,31.217,PT Teti,6th,80.75,0.5,,8,Akhet at 8.5º
+Lower Egypt,Saqqara North,29.883,31.217,Serapeum,18th,94,8.5,,0.75,
+Lower Egypt,Saqqara North,29.883,31.217,Horemheb,18th,74.5,0,b,13,Million Year Temple
+Lower Egypt,Saqqara North,29.883,31.217,Isis-Nectanebo II,30th,289.5,0.5,,17,Opposite (-16.75º)
+Lower Egypt,Saqqara South,29.85,31.217,PT Shepseskaf,4th,90.5,0,,-0.75,
+Lower Egypt,Saqqara South,29.85,31.217,PT Djedkare,5th,89.75,0.25,,0,
+Lower Egypt,Saqqara South,29.85,31.217,PT Pepi I,6th,90.25,0.25,,-0.25,
+Lower Egypt,Saqqara South,29.85,31.217,Chapel of Pepi I,6th,0.25,0,,59.5,
+Lower Egypt,Saqqara South,29.85,31.217,PT Inti,6th,91,0.25,b,-1,Wife of Pepi I
+Lower Egypt,Saqqara South,29.85,31.217,PT Ankhsenpepi,6th,91.25,0.25,b,-1.25,Wife of Pepi I
+Lower Egypt,Saqqara South,29.85,31.217,PT Pepi II,6th,90,0,,-0.25,
+Lower Egypt,Saqqara South,29.85,31.217,VT Pepi II,6th,85.5,0.5,,4,
+Lower Egypt,Saqqara South,29.85,31.217,PT Iput II,6th,88.75,0,,0.75,Wife of Pepi II
+Lower Egypt,Saqqara South,29.85,31.217,PT Ibi,8th,77,0.5,,11.25,
+Lower Egypt,Memphis,29.85,31.25,Ptah,18th-19th,111,0,,-18.5,Eastern dromos
+Lower Egypt,Memphis,29.85,31.25,Ptah,19th,291,0.5,,20,Western hall
+Lower Egypt,Memphis,29.85,31.25,Sethy I,19th,101.5,0,,-10.25,
+Lower Egypt,Memphis,29.85,31.25,Hathor,19th,7.5,0,B,58.75,
+Lower Egypt,Dahshur,29.8,31.217,PT Sneferu S,4th,89.75,0,,0,
+Lower Egypt,Dahshur,29.8,31.217,Statue T Sneferu,4th,92.5,1,,-1.5,Main gate
+Lower Egypt,Dahshur,29.8,31.217,Statue T Sneferu,4th,239,5.5,,-23.5,Causeway gate
+Lower Egypt,Dahshur,29.8,31.217,PT Sneferu N,4th,90,0,,-0.25,
+Lower Egypt,Dahshur,29.8,31.217,ST Senuseret III,12th,91,0,,-1,
+Lower Egypt,El Lisht,29.575,32.225,PT Amenemhat I,12th,91.75,0,,-1.25,
+Lower Egypt,El Lisht,29.56,31.22,PT Senuseret I,12th,90.75,0,,-1,
+Lower Egypt,Meidum,29.4,31.15,PT Sneferu,4th,94,0,,-3.75,Pyramid 359.75
+Middle Egypt,Heracleopolis,29.083,30.933,Herishef,19th,201,0,B,-55.25,
+Middle Egypt,Heracleopolis,29.083,30.933,Large Gate,22nd,194,0,B,-58.5,
+Middle Egypt,Hermopolis,27.783,30.8,Thot,18th-30th,171.25,0,,-61.5,
+Middle Egypt,Hermopolis,27.783,30.8,Ramses II - Nero,19th,359.75,0,,61.75,
+Middle Egypt,Hermopolis,27.783,30.8,Sethy II,19th,82.25,0,,6.75,
+Middle Egypt,Tuna el Gebel,27.75,30.7,Khemenu-pa-mek,Ptolemaic,3.75,0,,61.5,
+Middle Egypt,Tuna el Gebel,27.75,30.7,Ibis,Ptolemaic,94.25,0,,-4,Catacombs
+Middle Egypt,Tuna el Gebel,27.75,30.7,Petosiris Chapel,Ptolemaic,8.25,0,,60.5,
+Middle Egypt,Tell el Amarna,27.667,30.9,Aton (large),18th,282.75,0,,11,Akhet at - 11º
+Middle Egypt,Tell el Amarna,27.667,30.9,Aton (small),18th,283.25,0,,11.5,
+Middle Egypt,Mons Claudianus,26.717,33.483,Serapis,Roman,160.5,6.25,,-52,
+Middle Egypt,Mons Claudianus,26.717,33.483,“Isis” chapel,Roman,72.75,7.75,,18.75,
+Middle Egypt,Mons Claudianus,26.717,33.483,Fort chapel,Roman,269.5,4.5,,1.5,
+Middle Egypt,Athribis,26.5,31.667,Apries,26th,46.5,0,,37.75,
+Middle Egypt,Athribis,26.5,31.667,Phiskon,Ptolemaic,50.5,0,,34.5,
+Middle Egypt,Athribis,26.5,31.667,Auletes,Ptolemaic,135.5,0,,-40,
+Middle Egypt,Athribis,26.5,31.667,Small chapel,Ptolemaic,314.5,0,,38.5,
+Middle Egypt,Athribis,26.5,31.667,Dromos chapel,Roman,39.5,0,,43.25,
+Middle Egypt,Athribis,26.5,31.667,Speos,Undated,35.5,0.5,,46.5,
+Upper Egypt,Abydos,26.183,31.9,Shunet el-Zebit,2nd,46,0,,38.2,Khaseskhemwy
+Upper Egypt,Abydos,26.183,31.9,Sinki,4th  ?,48.75,0,,36,
+Upper Egypt,Abydos,26.183,31.9,Senuseret III,12th,26,0,,53.25,"∆a~±2º, ⊥ S → −23.5º"
+Upper Egypt,Abydos,26.183,31.9,Ahmose A,18th,26.75,0,,52.75,⊥ S → −23.75º
+Upper Egypt,Abydos,26.183,31.9,Ahmose B,18th,26.75,0,,52.75,Ibid.
+Upper Egypt,Abydos,26.183,31.9,Nefertary C,18th,26.75,0,,52.75,Ibid.
+Upper Egypt,Abydos,26.183,31.9,New temple D,18th,31.75,0,,49.25,⊥ S → −28.5º
+Upper Egypt,Abydos,26.183,31.9,Tuthmose IV,18th,42,0,,41.5,
+Upper Egypt,Abydos,26.183,31.9,Ramses I,19th,41.5,0,B,41.75,
+Upper Egypt,Abydos,26.183,31.9,Monkey´s,19th,42.5,0,B,41,
+Upper Egypt,Abydos,26.183,31.9,Ramesses II,19th,43.5,0,,40.25,
+Upper Egypt,Abydos,26.183,31.9,Sethy I,19th,36,0,,46.25,Main axis
+Upper Egypt,Abydos,26.183,31.9,,,306,4,,33.75,Osireion Gate
+Upper Egypt,Abydos,26.183,31.9,Khentamentyu,20th,44.5,0,B,39.5,
+Upper Egypt,Dendera,26.133,32.533,Hathor,Ptolemaic,18,1,,59,Main axis
+Upper Egypt,Dendera,26.133,32.533,Mammisi II,Roman,108.5,3,+,-15.25,
+Upper Egypt,Dendera,26.133,32.533,Mammisi I,30th,107.5,4.5,,-13.5,
+Upper Egypt,Dendera,26.133,32.533,Isis,Ptolemaic,108,0,,-16.5,Temenos Gate
+Upper Egypt,Dendera,26.133,32.533,"""",30th,112,3,+,-18.25,Old Axis
+Upper Egypt,Dendera,26.133,32.533,"""",Roman,18,,B,58,High room
+Upper Egypt,Qift,26.017,32.8,Min,18th,262,0,B+,-7.5,Main axis
+Upper Egypt,Al-Qala’a,26,32.8,Claudius,Roman,88.5,0,B+,1,Main axis
+Upper Egypt,Al-Qala’a,26,32.8,"""",,178,0,B+,-64.5,2nd axis
+Upper Egypt,Naqada,25.967,32.733,Set,3rd or 18th ?,111.5,0,,-19.5,
+Upper Egypt,Shenhur,25.867,32.783,Augustus,Roman,189.5,0,B+,-63,
+Upper Egypt,Medamud,25.75,32.7,Montu,Ptolemaic,283,2.5,,12.75,To Djebel Thoth
+Upper Egypt,Karnak,25.7,32.65,Amon (Main),12th-19th,296.75,3.5,,25.5,↓ Amon precinct
+Upper Egypt,Karnak,25.7,32.65,Sun High Place,18th,116.75,0,,-24.25,
+Upper Egypt,Karnak,25.7,32.65,Hatshepsut,18th,116.75,0,,-24.25,
+Upper Egypt,Karnak,25.7,32.65,Re-Horakhty,19th,116.75,0,,-24.25,
+Upper Egypt,Karnak,25.7,32.65,Sethy II,19th,206,0,b+,-54.5,
+Upper Egypt,Karnak,25.7,32.65,Ramesses III,20th,26.5,0,b+,53.25,
+Upper Egypt,Karnak,25.7,32.65,Khonsu,20th-21st,208.5,0,,-52.75,
+Upper Egypt,Karnak,25.7,32.65,Opet,Ptolemaic,298.5,3.5,,27,
+Upper Egypt,Karnak,25.7,32.65,Amenhotep II,18th,291.5,3.5,,20.75,
+Upper Egypt,Karnak,25.7,32.65,Ptah,18th,304.5,3,,32,
+Upper Egypt,Karnak,25.7,32.65,Osiris,30th,32,0,b+,53.5,
+Upper Egypt,Karnak,25.7,32.65,Osirian Chapel,25th,132.5,0,b+,-37.75,
+Upper Egypt,Karnak,25.7,32.65,Amasis Chapel,26th,142,1.5,,-44.5,
+Upper Egypt,Karnak,25.7,32.65,Achoris chapel,29th,286.25,2,B,15.25,↑
+Upper Egypt,Karnak,25.7,32.65,Montu,18th,27,0,,53,↓ Montu precinct
+Upper Egypt,Karnak,25.7,32.65,Raet-tawy,18th,28,0,,52.25,
+Upper Egypt,Karnak,25.7,32.65,Maat,18th,205.5,4,,-51.5,
+Upper Egypt,Karnak,25.7,32.65,Nectanebus II,30th,114.5,0,,-22.25,↑
+Upper Egypt,Karnak,25.7,32.65,Mut,18th,18,2,b,60.5,↓ Mut precinct
+Upper Egypt,Karnak,25.7,32.65,Khonsupakherd,18th-21st,289,3.5,,18.5,
+Upper Egypt,Karnak,25.7,32.65,Ramesses III,20th,19.5,2,B,59.5,
+Upper Egypt,Karnak,25.7,32.65,Kamutef,20th,287.5,3.5,,17.25,
+Upper Egypt,Karnak,25.7,32.65,Boat station,18th,107.5,0,,-16,↑
+Upper Egypt,Luxor,25.7,32.633,Ipet Resyt,12th-18th,33,0,b+,48.75,Sanctuary
+Upper Egypt,Luxor,25.7,32.633,Amenhotep III,18th,34,0,b+,48,Column hall
+Upper Egypt,Luxor,25.7,32.633,Tutankhamon,18th,35.5,3.5,b,49.5,Columnade
+Upper Egypt,Luxor,25.7,32.633,Hatshepsut,18th,220,0,b+,-44,Boat chapel
+Upper Egypt,Luxor,25.7,32.633,Ramesses II,19th,42.5,0,,41.25,Court main axis
+Upper Egypt,Luxor,25.7,32.633,"""",,311,4,,38.25,West Proc. Way
+Upper Egypt,Luxor,25.7,32.633,"""",,39.5,0,,43.75,┴ Pylon
+Upper Egypt,Luxor,25.7,32.633,Serapis,Ptolemaic,135,0,,-40,
+Upper Egypt,Thoth Hill,25.75,32.617,?,Archaic,119.5,-0.5,,-27,“Ancient” axis
+Upper Egypt,Thoth Hill,25.75,32.617,Horus,11th,117,-0.5,,-24.75,Main axis
+Upper Egypt,Deir Bahari,25.733,32.6,Mentuhotep II,11th,118.25,0,,-25.5,
+Upper Egypt,Deir Bahari,25.733,32.6,Hatshepsut,18th,115.5,0,,-23,
+Upper Egypt,Deir Bahari,25.733,32.6,Sun altar,18th,115.5,,b,-16.5,h ~ 12º-13º (at base)
+Upper Egypt,Deir Bahari,25.733,32.6,Hathor chapel,18th,116,0,,-23.5,
+Upper Egypt,Deir Bahari,25.733,32.6,Thutmose III,18th,118.5,0,,-25.75,
+Upper Egypt,El Assasif,25.733,32.01,Mentuemhat,25th,92.5,3.5,,-0.75,Axis Sun hall
+Upper Egypt,El Assasif,25.733,32.01,"""",,21,25,,71,Gate
+Upper Egypt,Qurna,25.733,32.35,Mentuhotep III,11th,121,8,,-23.5,∆a & ∆h ~±1º
+Upper Egypt,Qurna,25.733,32.35,Sethy I,19th,124,0,B,-30.5,
+Upper Egypt,Qurna,25.733,32.35,Roman temple,Roman,35.5,0,B,46.75,Sethy I enclosure
+Upper Egypt,Qurna,25.733,32.35,Thutmose III,18th,127,0,,-33,
+Upper Egypt,Qurna,25.733,32.35,Amenhotep II,18th,135,0,,-40,
+Upper Egypt,Qurna,25.733,32.35,Ramesses II,19th,131.5,0,,-37,Ramesseum
+Upper Egypt,Qurna,25.733,32.35,"""",,133.5,,,-38.75,┴ Pylon
+Upper Egypt,Qurna,25.733,32.35,Thutmose IV,18th,133,0,,-38.25,
+Upper Egypt,Qurna,25.733,32.35,Siptah-Tawosre,19th,132.5,0,,-37.75,
+Upper Egypt,Qurna,25.733,32.35,Merenptah,19th,122.5,0,,-29.25,
+Upper Egypt,Qurna,25.733,32.35,Amenhotep III,18th,117,0,,-24.5,Memnon colossi
+Upper Egypt,Qurna,25.733,32.35,Amenhotep,18th,120,0,,-27,
+Upper Egypt,Medinet Habu,25.717,32.6,Ay-Horemheb,18th,132,0,,-37.5,
+Upper Egypt,Medinet Habu,25.717,32.6,Thoth,Ptolemaic,134,0,,-39,
+Upper Egypt,Medinet Habu,25.717,32.6,Amon,18th,143,0,,-46.5,Small temple
+Upper Egypt,Medinet Habu,25.717,32.6,Ramesses III,20th,137.5,0,,-42,h ~1º-2º (windows)
+Upper Egypt,Medinet Habu,25.717,32.6,Amenardis I,25th,47.5,4.5,b,39.75,Funerary chapel
+Upper Egypt,Medinet Habu,25.717,32.6,Shapenupet,26th,47.5,4.5,b,39.75,Funerary chapel
+Upper Egypt,Malqata,25.717,32.6,Amon,18th,135.5,0,,-40.25,
+Upper Egypt,Deir el Medina,25.733,32.617,Hathor,Ptolemaic,147,10,,-42,
+Upper Egypt,Deir el Medina,25.733,32.617,Sethy I,19th,139,6.5,,-39,
+Upper Egypt,Deir el Medina,25.733,32.617,Amenhotep I,18th,115.5,0,,-23,
+Upper Egypt,Deir el Medina,25.733,32.617,North temple,19th,111,0,,-19,
+Upper Egypt,Deir el Medina,25.733,32.617,Amon,19th,323,22,,56,
+Upper Egypt,Deir el Medina,25.733,32.617,Votive chapel,19th,120.5,6.5,,-24,
+Upper Egypt,Deir el Medina,25.733,32.617,Meretseger,18th,331.5,17.5,,62.25,Rock sanctuary
+Upper Egypt,Deir el Sheluit,25.667,32.6,Isis,Roman,102.5,0,,-11.5,
+Upper Egypt,Armant,25.617,32.533,Montu,18th,151.5,0,B,-52.75,
+Upper Egypt,Armant,25.617,32.533,Mammisi,Ptolemaic,152,0,B,-53,
+Upper Egypt,Tod,25.583,32.533,Montu,12th,145.5,2,,-47,Old court
+Upper Egypt,Tod,25.583,32.533,Montu,Ptolemaic,323,0,B,45.75,Main axis
+Upper Egypt,Tod,25.583,32.533,Boat chapel,18th-19th,240,7,+,-23.25,
+Upper Egypt,Esna,25.317,32.567,Khnum,Ptolemaic,56,0,B+,30,
+Upper Egypt,Kom Mir,25.217,32.633,Antoninus,Roman,45.25,0,B,39.25,
+Upper Egypt,Kom el Ahmar,25.083,32.767,HK29A,Pre-dynastic,48.5,0.5,,36.75,∆a~±1º
+Upper Egypt,Kom el Ahmar,25.083,32.767,29B (north section),Pre-dynastic,44.5,0.5,,40.5,∆a~±2º
+Upper Egypt,Kom el Ahmar,25.083,32.767,Fort,2nd,54.5,0.5,,31.75,
+Upper Egypt,El Qab,25.117,32.8,Nekhbet,29th,140,0.5,,-44,↓ Within city wall
+Upper Egypt,El Qab,25.117,32.8,Thoth,18th,140.5,0.5,,-44.25,
+Upper Egypt,El Qab,25.117,32.8,Mammisi,Ptolemaic,230.5,0,,-35.5,
+Upper Egypt,El Qab,25.117,32.8,Roman,Roman,229,0,,-36.75,↑
+Upper Egypt,El Qab,25.133,32.817,Thoth,18th,49.5,3,,37.5,El Hamman
+Upper Egypt,El Qab,25.133,32.817,Nekhbet,Ptolemaic,155,1.5,,-54.25,Speos
+Upper Egypt,El Qab,25.133,32.833,Amenhotep III,18th,227,0,,-38.5,
+Upper Egypt,Edfu,24.983,32.867,Horus,19th,92,1.5,B,-1.25,Old pylon
+Upper Egypt,Edfu,24.983,32.867,Horus,Ptolemaic,181.75,,B,-65.5,
+Upper Egypt,Edfu,24.983,32.867,Mammisi,Ptolemaic,102.5,1.5,B,-10.75,
+Upper Egypt,El Kanayis,25,33.3,Sethy I,19th,7,0.5,,64,
+Upper Egypt,Djebel Silsila,24.667,32.933,Horemheb,18th,92.5,2,,-1.5,Speos
+Upper Egypt,Kom Ombo,24.45,32.933,Sobek/Haroeris,Ptolemaic,223,0,,-42.75,
+Upper Egypt,Kom Ombo,24.45,32.933,Hathor,Ptolemaic,223.5,0,,-41.5,
+Upper Egypt,Kom Ombo,24.45,32.933,Mammisi,Ptolemaic,134,0,,-39.5,Auletes Pylon
+Upper Egypt,Elephantine,24.067,32.883,Khnum,18th,138.5,2,B+,-42.25,
+Upper Egypt,Elephantine,24.067,32.883,Satet,18th,118.25,2,B+,-24.75,Over 6th-11th-12th temples
+Upper Egypt,Elephantine,24.067,32.883,Satet,Ptolemaic,114.5,2,B+,-21.5,
+Upper Egypt,Elephantine,24.067,32.883,Hekaib,11th-18th,318,0,b+,42.5,
+Upper Egypt,Aswan,24.1,32.883,Isis,Ptolemaic,261,2.5,B,-7.25,
+Upper Egypt,Aswan,24.1,32.883,Khnum,Roman,281,2.5,B,11,
+Lower Nubia,Filae,24.017,32.867,Nectanebus,30th,11.5,,b,63,Pavilion
+Lower Nubia,Filae,24.017,32.867,Arensnuphis,Ptolemaic,284,0.5,+,12.75,
+Lower Nubia,Filae,24.017,32.867,Imhotep,Ptolemaic,186.5,5.5,b,-60,
+Lower Nubia,Filae,24.017,32.867,Isis,Ptolemaic,201.5,6,b,-53.5,Main temple
+Lower Nubia,Filae,24.017,32.867,Mammisi,30th,189,3,,-61.75,
+Lower Nubia,Filae,24.017,32.867,Harendotes,Ptolemaic,122,16,b,-20.75,
+Lower Nubia,Filae,24.017,32.867,Augustus,Roman,66,1,+,22,
+Lower Nubia,Filae,24.017,32.867,Hadrian Gate,Roman,300,0,+,27,
+Lower Nubia,Filae,24.017,32.867,Hathor,Ptolemaic,111.5,2,+,-18.75,h~7º (−16.5º)
+Lower Nubia,Filae,24.017,32.867,Trajan Pavillion,Roman,272.5,2,b,3,
+Lower Nubia,Filae,24.017,32.867,Idem  Terrace,,93.5,2,+,-2.5,h~7º (−0.5º)
+Lower Nubia,Filae,24.017,32.867,Tiberius Gate,Roman,119,2,+,-25.5,h~7º (−23º)
+Lower Nubia,Qertasi,23.65,32.867,Kiosk,Roman,12.5,0,+,63,
+Lower Nubia,Beit el Wali,23.583,32.867,Ramesses II,19th,42.5,0,+,42.25,
+Lower Nubia,Kalabsha,23.567,32.867,Mandulis,Roman,104.5,0,+,-13.5,
+Lower Nubia,Kalabsha,23.567,32.867,"""",,110.5,,,-19,⊥ Pylon
+Lower Nubia,Kalabsha,23.567,32.867,Dedun,Roman,100.5,,,-10,
+Lower Nubia,G. Hussein,23.267,32.883,Ramesses II,19th,97.5,0,+,-7,
+Lower Nubia,Dakka,23.183,32.75,Thoth,Ptolemaic,20.5,1,+,60,
+Lower Nubia,Maharraqa,23.05,32.683,Isis,Roman,111,0,+,-19.5,
+Lower Nubia,Es Sebua,22.767,32.55,Ramesses II,19th,147,1,+,-50.25,
+Lower Nubia,Amada,22.717,32.233,Amon,18th,228,0.5,+,-38,
+Lower Nubia,Abu Simbel,22.333,31.617,Ramesses II,19th,100.5,0.75,+,-9.5,Main temple
+Lower Nubia,Abu Simbel,22.333,31.617,Re.Horakhty,19th,116.5,0.75,+,-24.25,
+Lower Nubia,Abu Simbel,22.333,31.617,Thoth Chapel,19th,101,0.75,+,-10,Chapel axis
+Lower Nubia,Abu Simbel,22.333,31.617,"""",,117,0.75,+,-24.5,Gate axis
+Lower Nubia,Abu Simbel,22.333,31.617,Nefertari,19th,142.5,0.75,+,-47,
+Siwa Oasis,Bilad el-Rum,29.233,25.4,Doric,Roman,213.75,0.75,,-46.25,Iskander´s
+Siwa Oasis,Bilad el-Rum,29.233,25.4,Khamisa,Uncertain,203.25,1.5,,-52.25,
+Siwa Oasis,Aghurmi,29.2,25.533,Oracle of Amon,26th,162.5,1,,-56,
+Siwa Oasis,Aghurmi,29.2,25.533,Umm Ubayda,30th,341,2.75,,57.75,
+Siwa Oasis,Aghurmi,29.2,25.533,New temple,Uncertain,68,0,,13.75,⊥ also possible
+Siwa Oasis,Djebel Takrur,29.183,25.567,Tin ‘Ashur,Roman,345.75,0,,57,
+Siwa Oasis,Djebel Takrur,29.183,25.567,Tin al Fifan,Roman,18.25,2.75,,58,
+Siwa Oasis,El Qurayshat,29.2,25.717,Amon,Ptolemaic,292.25,0.25,,19.25,
+Siwa Oasis,El Qurayshat,29.2,25.717,Imperial Cult,Roman,116.25,0,,-23,
+Siwa Oasis,Abu Shuruf,29.167,25.75,,Ptolemaic,29,0,B,49.25,
+Siwa Oasis,El Zeitun,29.15,25.783,Stone temple,Ptolemaic,23.75,0,B,52.5,
+El-Fayum Oasis,Bacchias,29.533,31,Sobek,Ptolemaic,116.75,0,,-23.5,Umm el Atl
+El-Fayum Oasis,Bacchias,29.533,31,,Roman,205,0,b,-53.5,
+El-Fayum Oasis,Karanis,29.517,30.633,South Temple,Roman,79,1.5,,10,Kom Aushin
+El-Fayum Oasis,Karanis,29.517,30.633,North Temple,Roman,164,1.5,,-55.75,
+El-Fayum Oasis,Philadelphia,29.45,31.85,North Temple,Ptolemaic,188.75,1,,-58.75,Or the opposite
+El-Fayum Oasis,Dionysas,29.4,30.417,Sobek,Ptolemaic,117.75,0,,-24.25,Qsar Qarun
+El-Fayum Oasis,Dionysas,29.4,30.417,East Temple,Roman,297,1.5,,24,
+El-Fayum Oasis,Seila,29.383,31.05,Snefru,4th,90,-0.5,,-0.5,Pyramid Temple
+El-Fayum Oasis,Biahmu,29.367,30.517,Amenemhat III,12th,170.5,0,,-59.75,
+El-Fayum Oasis,Hawara,29.267,30.9,Amenemhat III,12th,183.25,0,,-61.25,The Labyrinth
+El-Fayum Oasis,Hawara,29.267,30.9,,,93.25,0,,-3,⊥ Entrance
+El-Fayum Oasis,Kahun,29.233,30.967,Senuseret II,12th,91.25,0,,-1.5,
+El-Fayum Oasis,M. Gourob,29.2,30.933,Thutmose III,18th,29,0,,49.25,Towards Illahun
+El-Fayum Oasis,Narmuthis,29.183,30.633,“New” Temple,Ptolemaic,263,1.5,,-5.5,Medinet Maadi
+El-Fayum Oasis,Narmuthis,29.183,30.633,Sobek-Renutet,12th,170,0,B+,-59.75,Main Temple
+El-Fayum Oasis,Narmuthis,29.183,30.633,Isis & Soukhos,Ptolemaic,350,0,,58.75,Opposite Temple
+El-Fayum Oasis,Tebtynis,29.1,30.767,Soknebtynis,Ptolemaic,6.25,0,,59.75,Umm el Bugaryat
+El-Fayum Oasis,Tebtynis,29.1,30.767,Isis,Ptolemiac,276.5,0,b,5.5,
+Bahariya Oasis,El Qasr,28.35,28.85,Apries,26th,344.5,0,B,57.5,
+Bahariya Oasis,El Muftela,28.35,28.85,Amasis Chapel 1,26th,343.5,1.25,b,58.25,Main Chapel
+Bahariya Oasis,El Muftela,28.35,28.85,Amasis Chapel 2,26th,343.5,1.25,,58.25,Besh Chapel
+Bahariya Oasis,El Muftela,28.35,28.85,Amasis Chapel 3,26th,187.5,0,,-61.25,Osiris Chapel
+Bahariya Oasis,El Muftela,28.35,28.85,Amasis Chapel 4,26th,103.5,0.5,,-12,Open also to west
+Bahariya Oasis,Qaret Helwa,28.333,28.85,Hemispeos,18th,80.5,0,,8,
+Bahariya Oasis,Mesguesbe,28.333,28.817,Alexander,32th,179.5,1.5,,-60.5,
+Dakhla Oasis,Deir el Haggar,25.667,28.817,Amon,Roman,95.25,2,,-4,
+Dakhla Oasis,Trimithis,25.667,28.867,“New” Temple,Roman,96,0.5,,-5.5,Amheida
+Dakhla Oasis,Trimithis,25.667,28.867,Pyramid Ch.,Roman,116,0.5,,-23.5,
+Dakhla Oasis,Ezbet Bashendi,25.55,29.3,Osiris Chapel,Roman,104,,B,-13,Qitinos’ Tomb
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Medunefer,6th,100,2,,-8.25,Mastaba Chapel
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Ima-Pepi I,6th,88,2,,2.5,""""
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Khentyka,6th,103.25,2,,-11.25,""""
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Ima-Pepi II,6th,63,1,,24.5,""""
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Khentyka-Pepi,6th,104,2.25,,-11.75,""""
+Dakhla Oasis,Qila el Dabba,25.55,29.283,Djeru,6th,66,1,,21.75,""""
+Dakhla Oasis,Ain Asil,25.517,29.35,Medunefer,6th,14.25,2,b,62.5,Governor´s Chapel
+Dakhla Oasis,Ain Asil,25.517,29.35,West Chapel,6th,29,2,,53.25,""""
+Dakhla Oasis,Ain Asil,25.517,29.35,Central Chapel,6th,34,2,,49.5,""""
+Dakhla Oasis,Ain Asil,25.517,29.35,East Chapel,6th,34.5,2,,49,""""
+Dakhla Oasis,Birbaya,25.517,29.317,Amonnakht,Roman,100.25,1,,-9,Main Axis
+Dakhla Oasis,Birbaya,25.517,29.317,,,103,1,,-11.5,Propylon
+Dakhla Oasis,Kellis,25.517,30.583,Tutu,Roman,79.25,0.75,,9.75,Main Axis
+Dakhla Oasis,Kellis,25.517,30.583,,,259.75,0,,-9.5,Opposite Temple
+Dakhla Oasis,Kellis,25.517,30.583,West Temple,Roman,91,0.75,,-0.75,
+Dakhla Oasis,Kellis,25.517,30.583,Burial Chapel,Roman,102.5,0,,-11.5,
+Dakhla Oasis,Mut,25.483,28.967,Mut el Kharab,Roman,93.25,0,B,-3.25,Mudbrick Enclosure
+Kharga Oasis,Aïn Labkha,25.733,30.567,Pyris,Roman,82.75,0,,6.25,
+Kharga Oasis,Aïn Labkha,25.733,30.567,Pyris (N chapel),Roman,78,0.25,,9,
+Kharga Oasis,Aïn Labkha,25.733,30.567,Noth temple,Roman,90.25,0.25,,-0.25,
+Kharga Oasis,Hibis,25.467,30.55,Theban Triad,26th-27th,83,0.5,,6.25,Main Axis
+Kharga Oasis,Hibis,25.467,30.55,,Ptolemaic,83.5,0.5,,6,Pylon
+Kharga Oasis,Hibis,25.467,30.55,S Enclosure,Ptolemaic ?,352.5,0,b,63,
+Kharga Oasis,Hibis,25.467,30.55,North Temple,Ptolemaic ?,184.25,0,b,-61.5,
+Kharga Oasis,Hibis,25.467,30.55,South Chapel,Ptolemaic ?,79,0.5,,10,
+Kharga Oasis,Nadura,25.467,30.567,Mut,Roman,108,1.5,,-15.75,
+Kharga Oasis,Nadura,25.467,30.567,Khonsu,Roman,101.5,2,,-9.5,
+Kharga Oasis,Qsar el Ghueida,25.283,30.55,Theban Triad,26th-27th,94,1.25,,-3.25,Inner Sanctuary
+Kharga Oasis,Qsar el Ghueida,25.283,30.55,,Ptolemaic,92.5,1.25,,-2,Main Axis
+Kharga Oasis,Qsar el Ghueida,25.283,30.55,Manmisi,Ptolemaic,2.5,0,b+,64,
+Kharga Oasis,Tchonemyris,25.25,30.567,Amon,Roman,180,0,,-65.25,Qsar el Zaiyan
+Kharga Oasis,Kysis,24.583,30.717,Isis & Serapis,Roman,347,0.25,,62,Qsar el Douch
+Kharga Oasis,Kysis,24.583,30.717,West temple,Roman,345.5,0.5,,61.75,Main Axis
+Kharga Oasis,Kysis,24.583,30.717,,,75.5,1.5,,13.5,⊥ Entrance
+Sinai,Serabit el Khadim,29.033,33.467,Speos of Hathor,12th,306.5,0.25,,31,A (see Figure 8.49)
+Sinai,Serabit el Khadim,29.033,33.467,Speos of Ptah,12th,303.5,0.25,,28.75,B
+Sinai,Serabit el Khadim,29.033,33.467,Hypostile hall,12th,344.25,1,,57.75,E (or hanafiyeh)
+Sinai,Serabit el Khadim,29.033,33.467,Kings´chapel,12th,341,1,,56.25,C
+Sinai,Serabit el Khadim,29.033,33.467,Access temple,12th,247.5,3.25,,-18.75,D
+Sinai,Serabit el Khadim,29.033,33.467,View of stele 66,12th,242.5,2.5,,-23,F
+Sinai,Serabit el Khadim,29.033,33.467,View of stele 82,12th,236.5,2,,-28,G
+Sinai,Serabit el Khadim,29.033,33.467,Thutmose III,18th,251,2.5,,-15.5,−15.5   D’  if h~0º → δ~−17º
+Sinai,Serabit el Khadim,29.033,33.467,Ramses IV,20th,297,0.25,,23.25,A'
+Sinai,Serabit el Khadim,29.033,33.467,Axis of Ramses  VI,20th,249.5,2.25,,-16.75,D''
