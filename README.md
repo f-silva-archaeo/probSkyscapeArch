@@ -1,6 +1,6 @@
 # A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology: Source Code and Data
 
-This repository contains all data and scripts required to fully reproduce figures and simulations in the manuscript 'A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology' authored by F Silva and in print with the *Journal of Archaeological Science* (details forthcoming).
+This repository contains all data and scripts required to fully reproduce figures and simulations in the manuscript 'A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology' authored by F Silva *Journal of Archaeological Science* 118:105138 [DOI](https://doi.org/10.1016/j.jas.2020.105138)
 
 ## Required R packages
 * [skyscapeR 0.5.9001](https://github.com/f-silva-archaeo/skyscapeR)
