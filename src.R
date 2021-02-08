@@ -170,7 +170,7 @@ coordtrans_unc <- function(pdf='normal', az, unc, hor, name='', refraction=T, at
     aux1 <- az2dec(azs, hor[[k]], fhor-4*fhor.unc, refraction=refraction, atm=atm, temp=temp)
     aux2 <- az2dec(azs, hor[[k]], fhor+4*fhor.unc, refraction=refraction, atm=atm, temp=temp)
     
-    min.dec <- min(aux1); max.dec <- max(aux2)
+    min.dec <- min(aux1, na.rm = T); max.dec <- max(aux2, na.rm = T)
     
     dec <- seq(min.dec, max.dec, by = .prec_dec)
     mean.dec <- (aux2+aux1)/2
